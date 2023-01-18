@@ -4,7 +4,7 @@
 
 ## Features
 * 100% Kotlin
-* MVI architecture
+* MVI Architecture
 * Location Services
 * Dependency Injection
 * Lifecycle ViewModel
